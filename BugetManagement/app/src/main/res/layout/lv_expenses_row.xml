@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp">
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:id="@+id/tv_lv_expenses_row_date"
+        android:textColor="@color/lv_expenses_row_date"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:id="@+id/tv_lv_expenses_row_category"
+        android:textSize="20sp"
+        android:textColor="@color/lv_expenses_row_category"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:textSize="20sp"
+        android:id="@+id/tv_lv_expenses_row_amount"
+        android:textColor="@color/lv_expenses_row_amount"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.4"
+        android:textSize="20sp"
+        android:id="@+id/tv_lv_expenses_row_currency"
+        android:textColor="@color/lv_expenses_row_amount"
+        android:text="@string/lv_expenses_row_currency"/>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "759206329789",
+    "firebase_url": "https://budget-management-firebase.firebaseio.com",
+    "project_id": "budget-management-firebase",
+    "storage_bucket": "budget-management-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759206329789:android:af28ea1a7b8fb1e2",
+        "android_client_info": {
+          "package_name": "ro.ase.eu.bugetmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759206329789-2k0qdgsldpvj98kmls6p4kf27hdcrtb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5et9fMb4ja3Q4Lf7hyOLCT5GAJyVYHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
